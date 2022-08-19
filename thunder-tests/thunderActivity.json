@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "7c778050-22db-4fa2-9a35-829c65cb9015",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3333/users",
+    "url": "http://localhost:3333/users",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-08-19T01:48:46.989Z",
+    "modified": "2022-08-19T01:49:34.241Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"email\": \"matttalves@gmail.com\",\n  \"firstName\": \"Matheus\",\n  \"lastName\": \"Alves Pereira\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "c8db7fd1-0ccd-4b96-89bf-321d67bdf0f0",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3333/users",
+    "url": "http://localhost:3333/users",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-08-19T01:49:37.830Z",
+    "modified": "2022-08-19T02:03:18.487Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"email\": \"matttalves@gmail.com\",\n  \"firstName\": \"Matheus\",\n  \"lastName\": \"Alves Pereira\"\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
